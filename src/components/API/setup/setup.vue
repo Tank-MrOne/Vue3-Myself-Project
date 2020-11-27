@@ -21,7 +21,7 @@
 
 
 <script type="text/ecmascript-6">
-import { ref, reactive, h } from "vue";
+import { ref, reactive} from "vue";
 import { useAddStudent, useRemoveStudent } from "./js/setup";
 export default {
   name: "",
